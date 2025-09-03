@@ -1,0 +1,1 @@
+# GameInformationSystem_mini_project
